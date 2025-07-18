@@ -1,0 +1,47 @@
+.address{
+    text-align: center;
+}
+body{
+    background-color: #E3F6FF
+}
+.email{
+    text-align: center;
+
+}
+/* table{
+    font-size: 1.01rem;
+} */
+.heading{
+    text-align: center;
+}
+img{
+    width: 200px;
+    margin-right: 300px;
+}
+h1, h2{
+    font-size: 1.5rem
+}
+.tel{
+    text-align: center;
+}
+.about{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+/* .profile{
+    font-size:1.01rem;
+    line-height: 0.8;
+} */
+strong{
+    margin-right: 10px;
+}
+/* li{
+    font-size:1.01rem;
+} */
+.uniform{
+    font-size: 1.29rem;
+    text-align: justify;
+    font-family: Montserrat;
+    padding: 30px;
+}
