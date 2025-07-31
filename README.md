@@ -78,6 +78,9 @@ https://github.com/user-attachments/assets/196b3046-2ff5-42c4-92ff-1e0f5b1cd528
 # Simon Game app
 This project deeply test the use of Jquery and DOM
 https://github.com/user-attachments/assets/41bb4a4f-afe6-4975-80d0-8a39dfaf729c
+# Flexbox Card
+In this project price tag is created using card and flexbox
+https://github.com/user-attachments/assets/6016668f-1fa0-44d5-9655-31f0bfa7f874
 # Keeper App project
 This project test my understanding of react and ES6 syntax such as the spread operator, ternary operator, and closure. React components (both functional and class-based components were applied in this project. Th The knowledge of React Hook state and destructuring were also tested. The app is like google note keeper where you can post list of todos.
 https://github.com/user-attachments/assets/e30a580e-433c-42b4-87db-036a62e56009
