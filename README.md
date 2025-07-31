@@ -57,3 +57,6 @@
  #  Agency Website Project
 # A sample of a landing page of an Agency website using HTML, CSS and some image asset.
 https://github.com/user-attachments/assets/9075d928-4a2f-4937-9384-c7dde9d40135
+# Axios Blog API
+# This a blog website using axios to get information from an API, body-parser is used as a form of middleware. This website is good to visit when you are bored as you can get information on variaety of issue ranging from education, charity, recreation and so on. It tests my knowledge of restful API, EJS, HTML Form,  try and catch error in javascript and the use of Express
+https://github.com/user-attachments/assets/902e4404-4967-4221-af24-7bbc2ad47651
