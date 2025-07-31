@@ -63,6 +63,9 @@ https://github.com/user-attachments/assets/902e4404-4967-4221-af24-7bbc2ad47651
 # Blog API
 This project test my ability to use post request and post to an external server. You can post different ideas from various disciplines. Skill tests include post, patch and delete request.
 https://github.com/user-attachments/assets/31a8ccd1-3f21-4b48-911e-4896b6498fea
-# Keepdr App project
+# TinDog Project
+This is a project that test my knowlege of boostrap in creating a website. 
+https://github.com/user-attachments/assets/8f61c835-1e12-48e4-9983-0f92ec9047f6
+# Keeper App project
 This project test my understanding of react and ES6 syntax such as the spread operator, ternary operator, and closure. React components (both functional and class-based components were applied in this project. Th The knowledge of React Hook state and destructuring were also tested. The app is like google note keeper where you can post list of todos.
 https://github.com/user-attachments/assets/e30a580e-433c-42b4-87db-036a62e56009
