@@ -75,6 +75,9 @@ https://github.com/user-attachments/assets/4eea8bce-7d9b-42a3-a3f1-544c122a1a18
 # Drum Kit Project
 This project test my understanding JQuery and the use of DOM
 https://github.com/user-attachments/assets/196b3046-2ff5-42c4-92ff-1e0f5b1cd528
+# Simon Game app
+This project deeply test the use of Jquery and DOM
+https://github.com/user-attachments/assets/41bb4a4f-afe6-4975-80d0-8a39dfaf729c
 # Keeper App project
 This project test my understanding of react and ES6 syntax such as the spread operator, ternary operator, and closure. React components (both functional and class-based components were applied in this project. Th The knowledge of React Hook state and destructuring were also tested. The app is like google note keeper where you can post list of todos.
 https://github.com/user-attachments/assets/e30a580e-433c-42b4-87db-036a62e56009
