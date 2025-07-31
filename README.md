@@ -66,6 +66,9 @@ https://github.com/user-attachments/assets/31a8ccd1-3f21-4b48-911e-4896b6498fea
 # TinDog Project
 This is a project that test my knowlege of boostrap in creating a website. 
 https://github.com/user-attachments/assets/8f61c835-1e12-48e4-9983-0f92ec9047f6
+# CSS Flag Project
+This project test my understanding of the use of Div, CSS, GRID and Flexbox
+https://github.com/user-attachments/assets/d1580530-b0e1-4898-af95-e381bd38517f
 # Keeper App project
 This project test my understanding of react and ES6 syntax such as the spread operator, ternary operator, and closure. React components (both functional and class-based components were applied in this project. Th The knowledge of React Hook state and destructuring were also tested. The app is like google note keeper where you can post list of todos.
 https://github.com/user-attachments/assets/e30a580e-433c-42b4-87db-036a62e56009
